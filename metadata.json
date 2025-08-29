@@ -1,0 +1,5 @@
+{
+  "name": "Ad Magician",
+  "description": "Upload a product image and instantly generate professional-looking advertisements across various formats like billboards, magazines, and social media using the Gemini API.",
+  "requestFramePermissions": []
+}
